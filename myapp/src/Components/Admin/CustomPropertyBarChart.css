@@ -1,0 +1,10 @@
+  #datasets-example-2 {
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+  }
+
+  #datasets-example-2 .legend {
+    margin-block-end: 1rem;
+    justify-content: center;
+  }
